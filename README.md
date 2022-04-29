@@ -1,16 +1,16 @@
 #  Implementation of a Variational Autoencoder using Pytorch :white_check_mark:
 
 ## Contributors (Group Members)
- 1) :cameroon: Junior Kaningini (linkedIn) (AMMI Email)
+ 1) 🇨🇩: Junior Kaningini (https://www.linkedin.com/in/junior-kaningini-a02442196/) (nkaningini@uaimsammi.org)
  2) :kenya: Angela Munayo (linkedIn) (AMMI Email)
  3) :rwanda: Gasana Elysee (https://www.linkedin.com/in/elysee-manimpire-gasana) (emanimpire@aimsammi.org)
- 4) :nigeria: Nwanna Joseph (linkedIn) (AMMI Email)
+ 4) :nigeria: Nwanna Joseph (https://ng.linkedin.com/in/nnaemeka-nwanna-090b9b142) (jnwanna@aimsammi.org)
 
 ## Description:
 
 The variational autoencoder (VAE) is a framework for training two neural networks: an encoder and a decoder, in order to learn a mapping from a high-dimensional data representation to a lower-dimensional space and back again
 
-## Presentaion:
+## Presentation:
 https://github.com/Junior-081/VAE_Modular/blob/patch-3/Variational_Auto_Encoder__VAEs_.pdf
 
 ## Commands:
