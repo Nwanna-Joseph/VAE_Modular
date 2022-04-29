@@ -6,12 +6,10 @@ from model import VAE
 from utils import flatten, sequence_to_idx, loss_fn
 from args_params import args
 
-
 if __name__ == '__main__':
 
     batch_size = args.batch_size
     lr = args.lr
-
 
     trainloader = DataLoader(SMILEDataset(), batch_size=32)
     model = VAE()
@@ -24,7 +22,8 @@ if __name__ == '__main__':
     for epoch in range(2):
         for idx, image in enumerate(trainloader):
             # images = [print(sequence_to_idx( a ).shape) for a in image ]
-            images = flatten(torch.tensor(np.array([sequence_to_idx(a) for a in image]), dtype=torch.float32).reshape(-1, 1, 1, 35))
+            images = flatten(
+                torch.tensor(np.array([sequence_to_idx(a) for a in image]), dtype=torch.float32).reshape(-1, 1, 1, 35))
 
             recon_images, mu, logvar = model(images)
             mu_learnt = mu
