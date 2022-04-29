@@ -3,7 +3,7 @@
 ## Contributors (Group Members)
  1) :cameroon: Junior Kaningini (linkedIn) (AMMI Email)
  2) :kenya: Angela Munayo (linkedIn) (AMMI Email)
- 3) :rwanda: Gasana Elysee (linkedIn) (AMMI Email)
+ 3) :rwanda: Gasana Elysee (https://www.linkedin.com/in/elysee-manimpire-gasana) (emanimpire@aimsammi.org)
  4) :nigeria: Nwanna Joseph (linkedIn) (AMMI Email)
 
 ## Description:
