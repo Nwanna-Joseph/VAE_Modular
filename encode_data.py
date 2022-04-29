@@ -10,7 +10,7 @@ class SMILESEncoder:
                                             '6', '7', '=', '@', 'B', 'C', 'F', 'H', 'I', 'N', 'O', 'P', 'S',
                                             '[', ']', 'c', 'l', 'n', 'o', 'r', 's', '\\', '\n'}])  # < , > for consistency
 
-        self.image_template = np.zeros((200, len(self._tokens) + 1))  # +1 for unknown. 100 * number of unique chars
+        self.image_template = np.zeros((100, len(self._tokens) + 1))  # +1 for unknown. 100 * number of unique chars
 
         self.c2i = {}
         self.i2c = {}
