@@ -4,7 +4,7 @@
  1) 🇨🇩: Junior Kaningini (https://www.linkedin.com/in/junior-kaningini-a02442196/) (nkaningini@uaimsammi.org)
  2) :kenya: Angela Munayo (linkedIn) (AMMI Email)
  3) :rwanda: Gasana Elysee (https://www.linkedin.com/in/elysee-manimpire-gasana) (emanimpire@aimsammi.org)
- 4) :nigeria: Nwanna Joseph (linkedIn) (AMMI Email)
+ 4) :nigeria: Nwanna Joseph (https://ng.linkedin.com/in/nnaemeka-nwanna-090b9b142) (jnwanna@aimsammi.org)
 
 ## Description:
 
