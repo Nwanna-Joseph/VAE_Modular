@@ -2,7 +2,7 @@ import numpy as np
 import torch
 import torchvision as torchvision
 from torch.autograd import Variable
-from torch.nn.functional import binary_cross_entropy
+from torch.nn.functional import mse_loss
 
 from encode_data import SMILESEncoder
 
@@ -45,7 +45,7 @@ def temperature_sampling(temperature):
 
 
 def loss_fn(recon_x, x, mu, logvar):
-    BCE = binary_cross_entropy(recon_x, x, size_average=False)
+    BCE = mse_loss(recon_x, x, reduction='sum')
 
     # see Appendix B from VAE paper:
     # Kingma and Welling. Auto-Encoding Variational Bayes. ICLR, 2014
