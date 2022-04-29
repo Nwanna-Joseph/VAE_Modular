@@ -2,7 +2,7 @@
 
 ## Contributors (Group Members)
  1) 🇨🇩: Junior Kaningini (https://www.linkedin.com/in/junior-kaningini-a02442196/) (nkaningini@uaimsammi.org)
- 2) :kenya: Angela Munayo (linkedIn) (AMMI Email)
+ 2) :kenya: Angela Munayo (https://www.linkedin.com/in/angela-munyao-110777119/) (amusangi@aimsammi.org)
  3) :rwanda: Gasana Elysee (https://www.linkedin.com/in/elysee-manimpire-gasana) (emanimpire@aimsammi.org)
  4) :nigeria: Nwanna Joseph (https://ng.linkedin.com/in/nnaemeka-nwanna-090b9b142) (jnwanna@aimsammi.org)
 
