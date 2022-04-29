@@ -1,10 +1,10 @@
-# :computer: Implementation of a Variational Autoencoder using Pytorch
+#  Implementation of a Variational Autoencoder using Pytorch
 
 ## Contributors (Group Members)
- 1) Junior Kaningini (linkedIn) (AMMI Email)
- 2) Angela Munayo (linkedIn) (AMMI Email)
- 3) Gasana Elysee (linkedIn) (AMMI Email)
- 4) Nwanna Joseph (linkedIn) (AMMI Email)
+ 1) :cameroon: Junior Kaningini (linkedIn) (AMMI Email)
+ 2) :kenya: Angela Munayo (linkedIn) (AMMI Email)
+ 3) :rwanda: Gasana Elysee (linkedIn) (AMMI Email)
+ 4) :nigeria: Nwanna Joseph (linkedIn) (AMMI Email)
 
 ## Description:
 
@@ -21,12 +21,12 @@ The variational autoencoder (VAE) is a framework for training two neural network
  3) argparse
  4) torchvision
 
-## Folder Structure:
+## :card_file_box: Folder Structure:
  1) data : Contains files related to the SMILES data
  2) tests: Contains scripts for unit testing 
  3) saved_model: Where models that have been trained are saved
 
-## Files : 
+## :card_index_dividers: Files : 
  1) data/SMILEDataset : The SMILE dataset class built on pytorch
  2) data/smiles.txt: The training data
  3) args_params.py : Manages the extraction of the command line arguments
