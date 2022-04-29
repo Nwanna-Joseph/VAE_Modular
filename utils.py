@@ -73,12 +73,13 @@ def generate(model, mu, std):
     z = np.random.normal(mu.detach().numpy(),
                          std.detach().numpy())
     out_probs = model.decoder(torch.tensor(z, dtype=torch.float32))
+    _images_ = out_probs.split(100, dim=0)
 
     output = ""
-    for row in out_probs.detach().numpy():
+    for row in _images_[0].detach().numpy():
         dx = temperature_sampling(1)(row)
         ch = smiles_encoder.i2c.get(dx)
-        if (ch):
+        if ch:
             output += ch
     generation = output
     return generation
