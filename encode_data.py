@@ -23,7 +23,7 @@ class SMILESEncoder:
 
         assert len(data) < 100
 
-        char_image_template = self.image_template[:, :]
+        char_image_template = np.array(self.image_template[:,:])
 
         for i, c in enumerate(data):
             char_image_template[i][self.c2i[c]] = 1
