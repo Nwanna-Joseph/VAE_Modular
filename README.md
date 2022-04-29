@@ -8,7 +8,7 @@
 
 ## Description:
 
-A Variational Autoencoder is a ....
+The variational autoencoder (VAE) is a framework for training two neural networks: an encoder and a decoder, in order to learn a mapping from a high-dimensional data representation to a lower-dimensional space and back again
 
 ## Commands:
  1) To train the network ```python train.py```
