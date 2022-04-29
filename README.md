@@ -1,4 +1,4 @@
-#  Implementation of a Variational Autoencoder using Pytorch
+#  Implementation of a Variational Autoencoder using Pytorch :white_check_mark:
 
 ## Contributors (Group Members)
  1) :cameroon: Junior Kaningini (linkedIn) (AMMI Email)
